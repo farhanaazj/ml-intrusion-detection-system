@@ -65,12 +65,9 @@ Dataset Details:
 - Interactive Streamlit dashboard for live predictions on normal and attack traffic
 
 ## ▶️ How to Run
-- Clone the repository
-git clone https://github.com/farhanaazj/ml-intrusion-detection-system
-- Install dependencies
-pip install -r requirements.txt
-- Run the Streamlit app
-streamlit run app.py
+- Clone the repository: git clone https://github.com/farhanaazj/ml-intrusion-detection-system
+- Install dependencies: pip install -r requirements.txt
+- Run the Streamlit app: streamlit run app.py
 - Upload **network_traffic.csv** in the sidebar
 - Click **▶ Run Analysis** to train models and explore results
 - The app will automatically open in your browser
